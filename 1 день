@@ -1,1 +1,3 @@
 print('Привет')
+for i in 'ПРИВЕТ':
+    print(i)
