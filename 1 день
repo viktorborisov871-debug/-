@@ -1,3 +1,5 @@
 print('Привет')
 for i in 'ПРИВЕТ':
     print(i)
+for i in 'ЗДРАВСТВУЙТЕ':
+    print(i)
