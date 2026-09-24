@@ -3,3 +3,5 @@ for i in 'ПРИВЕТ':
     print(i)
 for i in 'ЗДРАВСТВУЙТЕ':
     print(i)
+for i in 'ДО СВИДАНИЯ':
+    print(i)
