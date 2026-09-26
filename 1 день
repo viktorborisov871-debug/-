@@ -8,3 +8,6 @@ for i in 'ДО СВИДАНИЯ':
 a = intput()
 for i in a:
 print(a)
+b = input('Введите слово')
+for k in range(len(b)):
+    print(k+1)
