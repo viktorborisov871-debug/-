@@ -11,3 +11,5 @@ print(a)
 b = input('Введите слово')
 for k in range(len(b)):
     print(k+1)
+for i in 'Hello':
+    print(i)
