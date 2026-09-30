@@ -17,3 +17,5 @@ for i in 'POKA':
     print(i)
 for i in 'УРОКИИИИ':
     print(i)
+for u in 'IOSOSKS':
+    print(u)
