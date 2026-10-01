@@ -19,3 +19,5 @@ for i in 'УРОКИИИИ':
     print(i)
 for u in 'IOSOSKS':
     print(u)
+for i in '12345678910':
+    print(i)
