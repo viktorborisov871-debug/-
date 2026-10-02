@@ -21,3 +21,5 @@ for u in 'IOSOSKS':
     print(u)
 for i in '12345678910':
     print(i)
+for u in range(1,10000):
+    print(u)
