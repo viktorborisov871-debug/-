@@ -25,3 +25,5 @@ for u in range(1,10000):
     print(u)
 for kl in range(1,100):
     print(kl)
+for p in range(1,10):
+    print(p)
