@@ -31,3 +31,4 @@ for p in range(1,190):
     print(p)
 for y in range(1,10000000):
     print(y)
+print('ПРИВЕЕЕЕЕЕЕЕЕЕТ')
