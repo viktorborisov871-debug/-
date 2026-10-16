@@ -46,3 +46,6 @@ print('AMMMMMAMMMMAMMMM')
 print('ТООООООООООООООООП')
 print('sksksksks')
 a = 6544
+b = 49948
+print(b)
+print(a)
