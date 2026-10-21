@@ -62,3 +62,6 @@ a = fkkfkkfkfk
 print(a)
 b = 12345
 print(b)
+print(1kj1j1k)
+for i in range(4):
+    print(i)
