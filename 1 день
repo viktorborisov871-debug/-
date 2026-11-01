@@ -88,3 +88,6 @@ print(b)
 a = irijjfjf
 b = 8484494
 print(a)
+s = 99993
+print(s)
+print(t)
