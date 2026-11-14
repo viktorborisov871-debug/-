@@ -115,3 +115,6 @@ e = 'eeee3○'
 print(e)
 п = '445548вв'
 print(п)
+е = 'а88аа8'
+print(е)
+print(e)
