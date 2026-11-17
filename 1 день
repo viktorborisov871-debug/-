@@ -128,3 +128,5 @@ print(t)
 print(g)
 p = rkorkor
 print(f)
+s = 'ldldmmdld'
+print(s)
