@@ -137,3 +137,6 @@ print(a)
 f = 'f;f;flflf'
 print(f)
 print(b)
+v = 'f;f;.f.f;'
+print(v)
+print(b)
