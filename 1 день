@@ -140,3 +140,6 @@ print(b)
 v = 'f;f;.f.f;'
 print(v)
 print(b)
+h = 1111
+print(h)
+print(a)
