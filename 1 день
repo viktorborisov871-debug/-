@@ -143,3 +143,6 @@ print(b)
 h = 1111
 print(h)
 print(a)
+f = 'd5d55d5d'
+print(f)
+print(a)
