@@ -146,3 +146,6 @@ print(a)
 f = 'd5d55d5d'
 print(f)
 print(a)
+у = 'аааа'
+print(y)
+print(a)
